@@ -1,2 +1,2 @@
 # tuji-bookshelf-android
-本棚
+本棚アプリ
